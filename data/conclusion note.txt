@@ -1,0 +1,18 @@
+Weekdays
+Global Cluster Coef cl1: 0.2275
+cl2 : 0
+Weekend
+Global Cluster Coef cl1: 0.3333
+cl2 : nan
+
+80-100
+whole : 0.1978
+cl1 : 0.1395
+cl2 : 0.2307
+cell : 10.02%
+
+100-300
+whole : 0.1978
+cl1 : 0.1395
+cl2 : 0.2307
+cell : 9.25%
